@@ -1,0 +1,4 @@
+__pycache__/
+applications/__pycache__/
+ordered_weakening_analysis/__pycache__/
+generated_images/

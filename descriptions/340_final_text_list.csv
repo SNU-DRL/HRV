@@ -1,0 +1,441 @@
+﻿Animals
+
+1. Dog
+2. Cat
+3. Elephant
+4. Lion
+5. Bird
+6. Fish
+7. Butterfly
+8. Bear
+9. Horse
+10. Cow
+
+Plants
+
+1. Tree
+2. Flower
+3. Grass
+4. Bush
+5. Cactus
+6. Vine
+7. Oak tree
+8. Moss
+9. Tulip
+10. Rose
+
+Fruits and Vegetables
+
+1. Apple
+2. Banana
+3. Carrot
+4. Tomato
+5. Broccoli
+6. Strawberry
+7. Potato
+8. Orange
+9. Lettuce
+10. Grapes
+
+People
+
+1. Child
+2. Woman
+3. Man
+4. Elderly person
+5. Teenager
+6. Athlete
+7. Farmer
+8. Doctor
+9. Teacher
+10. Tourist
+
+Vehicles
+
+1. Car
+2. Bicycle
+3. Airplane
+4. Train
+5. Boat
+6. Motorcycle
+7. Bus
+8. Truck
+9. Scooter
+10. Helicopter
+
+Buildings
+
+1. Skyscraper
+2. House
+3. Church
+4. Library
+5. Museum
+6. School
+7. Hospital
+8. Warehouse
+9. Apartment
+10. Castle
+
+Furniture
+
+1. Chair
+2. Table
+3. Sofa
+4. Bed
+5. Bookshelf
+6. Desk
+7. Wardrobe
+8. Dresser
+9. Cabinet
+10. Coffee table
+
+Electronics
+
+1. Smartphone
+2. Laptop
+3. Television
+4. Camera
+5. Tablet
+6. Headphones
+7. Microwave
+8. Refrigerator
+9. Printer
+10. Smartwatch
+
+Clothing
+
+1. T-shirt
+2. Jeans
+3. Jacket
+4. Dress
+5. Skirt
+6. Sweater
+7. Shorts
+8. Coat
+9. Blouse
+10. Pants
+
+Accessories
+
+1. Hat
+2. Scarf
+3. Sunglasses
+4. Watch
+5. Belt
+6. Necklace
+7. Earrings
+8. Bracelet
+9. Gloves
+10. Handbag
+
+Tools
+
+1. Hammer
+2. Screwdriver
+3. Wrench
+4. Drill
+5. Saw
+6. Pliers
+7. Tape measure
+8. Chisel
+9. Level
+10. Shovel
+
+Toys
+
+1. Doll
+2. Teddy bear
+3. Puzzle
+4. Action figure
+5. Toy car
+6. Lego
+7. Ball
+8. Kite
+9. Yo-yo
+10. Board game
+
+Food and Beverages
+
+1. Pizza
+2. Salad
+3. Burger
+4. Pasta
+5. Soup
+6. Coffee
+7. Tea
+8. Juice
+9. Cake
+10. Sandwich
+
+Books and Documents
+
+1. Novel
+2. Dictionary
+3. Textbook
+4. Magazine
+5. Newspaper
+6. Journal
+7. Notebook
+8. Manual
+9. Report
+10. Brochure
+
+Sports Equipment
+
+1. Soccer ball
+2. Tennis racket
+3. Basketball
+4. Baseball glove
+5. Hockey stick
+6. Golf club
+7. Surfboard
+8. Ski poles
+9. Boxing gloves
+10. Cricket bat
+
+Musical Instruments
+
+1. Guitar
+2. Piano
+3. Violin
+4. Drum
+5. Flute
+6. Saxophone
+7. Trumpet
+8. Harp
+9. Cello
+10. Clarinet
+
+Written Characters
+
+1. Latin Alphabet
+2. Greek Alphabet
+3. English Alphabet
+4. Punctuation marks
+5. Mathematical symbols
+6. Uppercase letters
+7. Lowercase letters
+8. Digits
+9. Consonants
+10. Vowels
+
+Color
+
+1. Red
+2. Blue
+3. Green
+4. Yellow
+5. Black
+6. White
+7. Purple
+8. Gray
+9. Pink
+10. Brown
+
+Shape
+
+1. Circle
+2. Square
+3. Triangle
+4. Rectangle
+5. Oval
+6. Hexagon
+7. Octagon
+8. Star
+9. Heart
+10. Diamond
+
+Texture
+
+1. Smooth
+2. Rough
+3. Fuzzy
+4. Slippery
+5. Sticky
+6. Soft
+7. Hard
+8. Bumpy
+9. Grainy
+10. Glossy
+
+Size
+
+1. Small
+2. Medium
+3. Large
+4. Tiny
+5. Huge
+6. Miniature
+7. Gigantic
+8. Petite
+9. Bulky
+10. Massive
+
+Counting
+
+1. One
+2. Two
+3. Three
+4. Four
+5. Five
+6. Six
+7. Seven
+8. Eight
+9. Nine
+10. Ten
+
+Image Style
+
+1. Abstract
+2. Realistic
+3. Minimalist
+4. Cartoon
+5. Vintage
+6. Modern
+7. Black and white
+8. Sepia
+9. Surreal
+10. Pop art
+
+Material
+
+1. Wood
+2. Metal
+3. Plastic
+4. Glass
+5. Fabric
+6. Paper
+7. Stone
+8. Rubber
+9. Leather
+10. Ceramic
+
+Lighting Conditions
+
+1. Bright
+2. Dim
+3. Dark
+4. Natural light
+5. Artificial light
+6. Backlit
+7. Soft light
+8. Harsh light
+9. Spotlight
+10. Twilight
+
+Facial Expressions
+
+1. Happy
+2. Sad
+3. Angry
+4. Surprised
+5. Confused
+6. Laughing
+7. Crying
+8. Smiling
+9. Frowning
+10. Disgusted
+
+Facial Features
+
+1. Eyes
+2. Nose
+3. Mouth
+4. Ears
+5. Eyebrows
+6. Lips
+7. Cheeks
+8. Chin
+9. Forehead
+10. Teeth
+
+Poses and Gestures
+
+1. Standing
+2. Sitting
+3. Running
+4. Jumping
+5. Waving
+6. Clapping
+7. Pointing
+8. Hugging
+9. Dancing
+10. Kneeling
+
+Nature Scenes
+
+1. Forest
+2. Beach
+3. Mountain
+4. River
+5. Desert
+6. Meadow
+7. Waterfall
+8. Jungle
+9. Lake
+10. Canyon
+
+Weather Conditions
+
+1. Sunny
+2. Rainy
+3. Snowy
+4. Windy
+5. Cloudy
+6. Stormy
+7. Foggy
+8. Hail
+9. Thunderstorm
+10. Drizzle
+
+Time of Day
+
+1. Morning
+2. Noon
+3. Afternoon
+4. Evening
+5. Night
+6. Sunrise
+7. Sunset
+8. Midnight
+9. Dusk
+10. Dawn
+
+Geo-locations
+
+1. New York
+2. Paris
+3. Tokyo
+4. London
+5. Sydney
+6. Cairo
+7. Rome
+8. Beijing
+9. Moscow
+10. Rio de Janeiro
+
+Brand Logos
+
+1. Samsung
+2. Nike
+3. McDonald's
+4. Coca-Cola
+5. Google
+6. Microsoft
+7. Amazon
+8. Adidas
+9. Starbucks
+10. BMW
+
+Geometric Patterns
+
+1. Stripes
+2. Polka dots
+3. Chevron
+4. Plaid
+5. Argyle
+6. Houndstooth
+7. Lattice
+8. Hexagons
+9. Spirals
+10. Waves
