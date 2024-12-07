@@ -1,7 +1,7 @@
 # Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models
 ![teaser_1](docs/teaser_1.png)
 
-[Paper Link](https://arxiv.org/abs/2412.02237)
+### [Paper Link](https://arxiv.org/abs/2412.02237)
 
 ## Setup
 
@@ -124,3 +124,12 @@ This project builds on the codes from the following repositories:
 We thank the creators of these projects for making their codes available.
 
 ## Citation
+
+``` bibtex
+@article{park2024cross,
+  title={Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models},
+  author={Park, Jungwon and Ko, Jungmin and Byun, Dongnam and Suh, Jangwon and Rhee, Wonjong},
+  journal={arXiv preprint arXiv:2412.02237},
+  year={2024}
+}
+```
